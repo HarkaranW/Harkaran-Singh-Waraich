@@ -32,9 +32,3 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner, c
 
 - GitHub: [HarkaranW](https://github.com/HarkaranW)
 - Feel free to connect or check out my projects!
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-Thanks for stopping by! 🚀
